@@ -1,0 +1,97 @@
+#form1 {
+  width: 210px;
+  height: 100px;
+  margin: 50px 60px 5px 60px;
+  position: relative;
+  padding: 20px;
+}
+input {
+  width: 375px;
+  height: 25px;
+  font-family: "Poppins", sans-serif;
+  text-align: left;
+}
+.fonty {
+  font-size: 20px;
+  text-align: center;
+}
+#form2 {
+  width: 230px;
+  height: 80px;
+  margin: 30px 100px;
+  position: relative;
+  top: -5px;
+  left: -60px;
+  padding: 4px;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 30px;
+}
+#form2:hover {
+  cursor: pointer;
+  background-color: #fcd1f1;
+  color: white;
+  font-weight: bolder;
+}
+h1 {
+  text-align: left;
+  font-family: "Poppins", sans-serif;
+  font-weight: lighter;
+  padding: auto auto auto 10px;
+  margin: 5px auto;
+  padding-left: 40px;
+  text-decoration: underline;
+  font-weight: bolder;
+  font-size: 45px;
+}
+.contain {
+  display: block;
+  margin: 0 auto;
+  border: 2px solid black;
+  border-radius: 15px;
+
+  box-shadow: 4px 4px 15px black;
+  max-width: 600px;
+  max-height: 600px;
+  background-image: url("https://img4.goodfon.com/wallpaper/nbig/a/68/happy-birthday-sobaka-dom.jpg");
+  background-size: cover;
+}
+.first {
+  margin: 0 20px 5px 0;
+  padding: 0;
+  border: 2px solid black;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  position: relative;
+  left: -40px;
+  top: -20px;
+  text-align: center;
+}
+
+p {
+  text-align: right;
+  font-size: 12px;
+  margin-bottom: 2px;
+  margin-top: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+#sizes {
+  margin: 10px 10px;
+}
+.action {
+  width: 200px;
+  padding: 0;
+  margin-top: 10px;
+  position: relative;
+  left: 40px;
+  top: -60px;
+  border: 2px solid black;
+  background-color: white;
+  border-radius: 10px;
+  border-width: inherit;
+}
+#sizes {
+  padding-left: 20px;
+}
